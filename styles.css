@@ -1,0 +1,15 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.menu a {
+  font-family: arial;
+  background-color: #fbfbfb;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+  border-style: solid;
+  border-width: 2px;
+}
