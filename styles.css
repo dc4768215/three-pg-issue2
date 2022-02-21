@@ -5,12 +5,17 @@
 .navWrapper {
   display: flex;
   justify-content: center;
-  background-color: #222;
-  padding: 32px;
+  background-color: black;
+  padding: 20px;
 }
 .menu {
   display: flex;
   justify-content: space-between;
   flex-direction: row;
   width: 80vw;
+}
+.menu a {
+  font-family: arial;
+  color: white;
+  text-decoration: none;
 }
