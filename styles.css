@@ -36,6 +36,26 @@
   font-family: arial;
   padding: 3vw;
 }
+h1 {
+  font-family: arial;
+  font-size: 35px;
+  margin-top: 0.25vw;
+}
 #citation {
   font-size: 11px;
+}
+#t {
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+.logos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#first {
+  padding-top: 9vw;
+}
+#second {
+  padding-top: 0.005vw;
 }
