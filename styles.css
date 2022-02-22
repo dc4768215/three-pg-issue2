@@ -7,6 +7,7 @@
   justify-content: center;
   background-color: black;
   padding: 0.5vw;
+  font-size: 17px;
 }
 .menu {
   display: flex;
@@ -26,6 +27,11 @@
   padding-right: 10vw;*/
 }
 .insetContainer > .p,img {
+  font-size: 20px;
+  font-family: arial;
+  padding: 3vw;
+}
+.insetContainer1 > .p,img {
   font-size: 20px;
   font-family: arial;
   padding: 3vw;
